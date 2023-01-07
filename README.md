@@ -10,4 +10,4 @@ npm install --save @fortawesome/free-solid-svg-icons\
 npm install --save @fortawesome/react-fontawesome\
 npm install uuid
 
-Weblink : https://musicbox.bzuninomourlon.fr
+Weblink : https://musicbox.petitcodeur.io/
